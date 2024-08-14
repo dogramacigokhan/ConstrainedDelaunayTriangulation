@@ -1,9 +1,10 @@
 {
-    "name": "com.qthund.delaunay",
-    "displayName": "ConstrainedDelaunayTriangulation",
-    "version": "1.0.0",
-    "unity": "2018.3",
-    "description": "Constrained Delaunay Triangulation",
-    "license": "MIT",
-    "dependencies": {}
+  "name": "com.qthund.delaunay",
+  "displayName": "ConstrainedDelaunayTriangulation",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "Constrained Delaunay Triangulation",
+  "license": "MIT",
+  "dependencies": {},
+  "_fingerprint": "003055dad87d0a9b209097a5af24813d935bde74"
 }
